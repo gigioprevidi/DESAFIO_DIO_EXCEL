@@ -1,0 +1,1 @@
+Desafio DIO de fazer um Dashboard, fiz com base na ajuda do professor do desafio, é um deashboard de vendas de XBOX, feita para melhor entendimento de quantas vendas foram feitas por filtro e com dinamismo. Foi utilizado o banco de dados disponibilizado pelo professor do desafio, seguindo as instruções do desafio.
